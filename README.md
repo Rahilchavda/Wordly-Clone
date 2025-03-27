@@ -1,6 +1,4 @@
-# Wordly-Clone
-Covid era games !
-🎯 Wordle Clone with React & Tailwind
+# 🎯 Wordle Clone with React & Tailwind (Covid era games !)
 A simple Wordle Clone built with React, Tailwind CSS, and useState/useEffect hooks. This project implements core game logic, user input handling, and tile coloring to mimic the classic Wordle experience.
 
 🚀 Features
